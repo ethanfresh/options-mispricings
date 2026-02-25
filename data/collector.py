@@ -200,9 +200,10 @@ if __name__ == "__main__":
     SYMBOLS = [
         "NVDA",
         # Add more symbols here later
-        # "SPY",
-        # "AAPL",
-        # "TSLA",
+        "SPY",
+        "AAPL",
+        "TSLA",
+        "QQQ"
     ]
 
     print("[COLLECTOR] Starting batch collection")
